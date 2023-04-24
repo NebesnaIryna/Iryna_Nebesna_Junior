@@ -52,6 +52,7 @@ p, h4 {
     margin-bottom: 50px;
     width: 700px;
 }
+
 .title {
     font-style: normal;
     font-weight: 700;
@@ -60,6 +61,7 @@ p, h4 {
     color: #000000;
     margin-bottom: 20px;
 }
+
 .project-list{
     padding: 0;
 }
@@ -143,6 +145,7 @@ p, h4 {
 .education {
     margin-bottom: 20px;
 }
+
 .educations__department{
     font-style: normal;
     font-weight: 700;
@@ -162,12 +165,14 @@ p, h4 {
     top: 40px;
     border-radius: 0px;
 }
+
 .sidebar-photo {
     padding-left: 40px;
     width: 240px;
     height: 250px;
 
 }
+
 .sidebar-title {
     color: rgb(8, 8, 8);
     font-style: normal;
@@ -175,8 +180,8 @@ p, h4 {
     font-size: 22px;
     line-height: 27px;
     margin-bottom: 10px;
-    
 }
+
 .information {
     padding-left: 40px;
 }
@@ -184,6 +189,7 @@ p, h4 {
 .contacts {
     margin-bottom: 50px;
 }
+
 .tech-skills {
     margin-bottom: 45px;
 }
